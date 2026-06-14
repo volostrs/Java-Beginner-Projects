@@ -3,7 +3,7 @@ public class Main {
     public static void main (String[] args){
         UserInputandMadLibs Module = new UserInputandMadLibs();
         Square Squares = new Square();
-        Square.Square();
+        Square.SquareCheck();
 
         /*
         try {
